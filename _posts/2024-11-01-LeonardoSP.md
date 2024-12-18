@@ -3,7 +3,7 @@ layout: posts
 title:  "Mineração de repositórios par avaliar a influência das mudanças de código ao longo do tempo"
 date:   2024-11-01 16:16:30 -0600
 categories: trabalho
-autornick: LeonardoSJP
+autornick: LeonardoSP
 autor: "Leonardo Scarmato J de Paula"
 orientador: "Prof. Dr. Higor Amario de Souza"
 
